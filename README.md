@@ -1,3 +1,4 @@
-# MY-FIRST-WEBSITE
-MADE MY FIRST WEBSITE USING HTML.
-Checkout my website at: https://mrkrishna.w3spaces.com/
+# MY-RESUME-AS-A-WEBSITE
+MADE MY-RESUME-AS-A-WEBSITE
+💡Tried something new💡
+Checkout my website at: https://mrkrishna.w3spaces.com
