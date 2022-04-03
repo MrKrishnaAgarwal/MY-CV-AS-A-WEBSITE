@@ -1,7 +1,7 @@
-# MY-RESUME-AS-A-WEBSITE
+# MY-CV-AS-A-WEBSITE
 
 
-MADE MY-RESUME-AS-A-WEBSITE
+MADE MY-CV-AS-A-WEBSITE
 
 
 💡Tried something new💡
