@@ -1,7 +1,7 @@
-# MY-CV-WEBSITE
+# MY-Portfolio-WEBSITE
 
 
-MADE-MY-CV-WEBSITE
+MADE-MY-Portfolio-WEBSITE
 
 
 💡Tried something new💡
